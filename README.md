@@ -1,2 +1,2 @@
-# P2P_detection
+# P2P detection
 Datasets were collected using Cicflowmeter. 
